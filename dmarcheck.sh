@@ -20,19 +20,20 @@ VERSION="1.0.0#dev"
 
 goBanner(){
 echo -e "\n"
-echo -e ${SORANGE}"     .___                             ${SPURPLE}           :::::::  ";
+echo -e ${SORANGE}"     .___                             ${SPURPLE}            :::::::  ";
 echo -e ${SORANGE}"   __| _/_____  _____ _______   ____   ${SPURPLE}          -%%%%%%%-  ";
 echo -e ${SORANGE}"  / __ |/     \  __  \ _  __ \/ ___\  ${SPURPLE}         ###%%%%%%%###.";
 echo -e ${SORANGE}" / /_/ |  Y Y  \/ __ \|  | \/ \  \___  ${SPURPLE}       .%%*==%%%==*%%.";
 echo -e ${SORANGE}" \____ |__|_|  (____  /__|     \___  > ${SPURPLE}       .%%*-=%%%=-*%%.";
 echo -e ${SORANGE}"      \/     \/     \/            \/  ${SPURPLE}        .##%%%%%%%%%##.";
-echo -e ${SORANGE}"                                       ${SPURPLE}        =#-+*:**-#= ";
-echo -e ${SORANGE}"                                       ${SPURPLE}       =# -#   #- #=   ";
-echo -e ${SORANGE}"                                        ${SPURPLE}     =-=:*=   =*:=-=";
+echo -e ${SORANGE}"                                       ${SPURPLE}         =#-+*:**-#= ";
+echo -e ${SORANGE}"                                       ${SPURPLE}        =# -#   #- #=   ";
+echo -e ${SORANGE}"                                        ${SPURPLE}      =-=:*=   =*:=-=";
 echo -e ${RED}"spfchck ${RESET}* Simple Bash DMARC record checker${RESET}${SPURPLE}     .:-.#-   -#.-:.     ";
-echo -e ${RESET}     " ~ https://github.com/ninebrainer/DMARCHECK    ${SPURPLE}=-+. .+-=${RESET}"
+echo -e ${RESET}     " ~ https://github.com/ninebrainer/DMARCHECK    ${SPURPLE}  =-+. .+-=${RESET}"
 
 }
+
 
 
 # ✔
