@@ -29,7 +29,7 @@ echo -e ${SORANGE}"      \/     \/     \/            \/  ${SPURPLE}        .##%%
 echo -e ${SORANGE}"                                       ${SPURPLE}         =#-+*:**-#= ";
 echo -e ${SORANGE}"                                       ${SPURPLE}        =# -#   #- #=   ";
 echo -e ${SORANGE}"                                        ${SPURPLE}      =-=:*=   =*:=-=";
-echo -e ${RED}"spfchck ${RESET}* Simple Bash DMARC record checker${RESET}${SPURPLE}     .:-.#-   -#.-:.     ";
+echo -e ${RED}"DMARC ${RESET}* Simple Bash DMARC record checker${RESET}${SPURPLE}     .:-.#-   -#.-:.     ";
 echo -e ${RESET}     " ~ https://github.com/ninebrainer/DMARCHECK    ${SPURPLE}  =-+. .+-=${RESET}"
 echo -e 
 echo -e 
